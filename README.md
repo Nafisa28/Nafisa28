@@ -236,13 +236,6 @@ Working on a team project, the **Medical Operations Intelligence Dashboard**, bu
 
 ---
 
-## Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Nafisa28/Nafisa28/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 ---
 
